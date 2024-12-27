@@ -66,7 +66,7 @@ cd TrackLocator
 1. Navigate to the backend directory:
 
 ```bash
-cd backend
+cd back-end
 ```
 
 2. Install the required dependencies:
@@ -100,7 +100,7 @@ This will start the backend server on `http://localhost:5000`.
 1. Navigate to the frontend directory:
 
 ```bash
-cd ../frontend
+cd ../front-end
 ```
 
 2. Install the required dependencies:
@@ -151,7 +151,7 @@ This will start the frontend server on `http://localhost:3000`.
 
 **Admin Dashboard**  
 
-![Admin Dashboard Screenshot](screenshots/admin-dashboard.png)
+![Admin Dashboard Screenshot](https://github.com/user-attachments/assets/2cf380d8-1bd8-40af-8203-6209acd4e737)
 
 **MongoDB Database**  
 
