@@ -33,6 +33,21 @@
 - **Node.js**: A JavaScript runtime built on Chrome's V8 engine, used for building scalable network applications.
 - **Express**: A web application framework for Node.js, designed for building RESTful APIs and web applications.
 
+#### **Backend Dependencies**  
+
+- **bcryptjs**: Handles password hashing for secure user authentication.  
+- **body-parser**: Parses incoming request bodies in a middleware.  
+- **cors**: Enables cross-origin requests between the frontend and backend.  
+- **express**: A minimal and flexible Node.js framework for building web applications.  
+- **jsonwebtoken**: Used for creating and verifying JSON Web Tokens for secure authentication.  
+- **mongoose**: Manages MongoDB interactions with a simple and robust Object Data Modeling (ODM) library.  
+- **nodemon**: Automatically restarts the server during development when file changes are detected.  
+- **pg**: A PostgreSQL client for Node.js, ensuring compatibility with PostgreSQL databases.  
+- **pg-hstore**: Handles serialization of JSON data to PostgreSQL hstore format.  
+- **redis**: A high-performance in-memory data structure store used for caching and real-time location updates.  
+- **socket.io**: Enables real-time, bidirectional communication between the server and client, crucial for live location tracking.  
+
+
 ### Database:
 - **MongoDB**: A NoSQL database that stores data in flexible, JSON-like documents, which allows for easy handling of unstructured data.
 
