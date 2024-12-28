@@ -155,7 +155,7 @@ This will start the frontend server on `http://localhost:3000`.
 
 **MongoDB Database**  
 
-![MongoDB Screenshot](https://github.com/user-attachments/assets/81d32fff-588e-48b8-9662-8e8f7eb40756)
+![MongoDB Screenshot](https://github.com/user-attachments/assets/4578c634-6bb6-4aa1-bd43-2be3573735f6)
 
 ---
 
