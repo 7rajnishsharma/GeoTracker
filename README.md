@@ -139,23 +139,23 @@ This will start the frontend server on `http://localhost:3000`.
 
 **Homepage**  
 
-![Homepage Screenshot](https://github.com/user-attachments/assets/0489b16d-8306-4019-891d-0d3d819a0ec3)
+![HomePage](https://github.com/user-attachments/assets/e286333d-5a06-45f3-b1a8-35acc168ba1f)
 
 **Login Page**  
 
-![Login Screenshot](https://github.com/user-attachments/assets/fb63d7ef-32f2-4716-ae26-4d797f8ae8a3)
+![LoginPage](https://github.com/user-attachments/assets/c9d036ef-aa06-4745-b2ac-e0a0fffb9d70)
 
 **Signup Page**  
 
-![Signup Screenshot](https://github.com/user-attachments/assets/b82f1321-58fe-4c7a-ae51-e4d08428d0ab)
+![SignUp](https://github.com/user-attachments/assets/e52ca51d-2d1c-4fc0-bfcd-e439a26f91c0)
 
 **Admin Dashboard**  
 
-![Admin Dashboard Screenshot](https://github.com/user-attachments/assets/2cf380d8-1bd8-40af-8203-6209acd4e737)
+![Admin](https://github.com/user-attachments/assets/4578c634-6bb6-4aa1-bd43-2be3573735f6)
 
 **MongoDB Database**  
 
-![MongoDB Screenshot](https://github.com/user-attachments/assets/4578c634-6bb6-4aa1-bd43-2be3573735f6)
+![Database](https://github.com/user-attachments/assets/6e20b466-a2c1-4d6f-915d-0521fdf03a01)
 
 ---
 
