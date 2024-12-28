@@ -57,8 +57,8 @@ Before setting up the project, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/7rajnishsharma/TrackLocator.git
-cd TrackLocator
+https://github.com/7rajnishsharma/GeoTracker.git
+cd GeoTracker
 ```
 
 ### Backend Setup
