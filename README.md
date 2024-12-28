@@ -1,11 +1,11 @@
 
 ---
 
-# TrackLocator
+# GeoTracker
 
 ## Project Description
 
-**TrackLocator** is a real-time web application that enables users to track and manage their location efficiently. The app allows for user authentication, continuous location tracking, and provides an admin dashboard to view the locations of all users. The frontend is built with React, while the backend is powered by Node.js and Express, with MongoDB as the data storage solution.
+**GeoTracker** is a real-time web application that enables users to track and manage their location efficiently. The app allows for user authentication, continuous location tracking, and provides an admin dashboard to view the locations of all users. The frontend is built with React, while the backend is powered by Node.js and Express, with MongoDB as the data storage solution.
 
 ### Key Features:
 
